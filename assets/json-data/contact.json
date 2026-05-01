@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "type": "phone",
+      "label": "Phone",
+      "value": "+0201117143665 / +0201145573512",
+      "icon": "fa-solid fa-phone"
+    },
+    {
+      "id": 2,
+      "type": "whatsapp",
+      "label": "WhatsApp",
+      "value": "+0201117143665",
+      "href": "https://wa.me/201117143665",
+      "icon": "fa-brands fa-whatsapp"
+    },
+    {
+      "id": 3,
+      "type": "email",
+      "label": "Email",
+      "value": "Mohamed1Elyamani1@gmail.com",
+      "href": "mailto:Mohamed1Elyamani1@gmail.com",
+      "icon": "fa-brands fa-google"
+    },
+    {
+      "id": 4,
+      "type": "linkedin",
+      "label": "LinkedIn",
+      "value": "mohamed-elyamani-131091142/",
+      "href": "https://www.linkedin.com/in/mohamed-elyamani-131091142/",
+      "icon": "fa-brands fa-linkedin"
+    }
+  ]
+}

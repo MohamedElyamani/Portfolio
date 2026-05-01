@@ -1,0 +1,341 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Online-Store",
+      "description": "Online Store is an Angular e-commerce web app with user authentication, product listing, product details, cart management, checkout, and order tracking. tegrated REST APIs for products, categories, authentication, cart operations.",
+      "image": "./assets/imgs/projects/project-1.png",
+      "links": [
+        {
+          "id": 1,
+          "label": "Live Demo",
+          "href": "https://mohamedelyamani.github.io/online-store/login",
+          "icon": "fa-solid fa-eye"
+        },
+        {
+          "id": 2,
+          "label": "Source Code",
+          "href": "https://github.com/MohamedElyamani/online-store",
+          "icon": "fa-brands fa-github"
+        }
+      ],
+       "technologies": [
+        {
+          "id": 1,
+          "icon": "<i class='fa-brands fa-angular'></i>"
+        },
+        {
+          "id": 2,
+          "icon": "<i class='fa-brands fa-typescript'></i>"
+        },
+        {
+          "id": 3,
+          "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        },
+        {
+          "id": 4,
+          "icon": "<i class='fa-solid fa-code'></i>"
+        }
+        ,
+        {
+          "id": 5,
+          "iconType": "image",
+          "icon": "./assets/imgs/rxjs.svg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Entertainment World",
+      "description": "Entertainment World is an Angular app for browsing movies, TV shows, trending content, and media details. It includes search, watchlist, and category pages like popular, top rated, and upcoming.",
+      "image": "./assets/imgs/projects/project-2.png",
+      "links": [
+        {
+          "id": 1,
+          "label": "Live Demo",
+          "href": "https://mohamedelyamani.github.io/Entertainment-world/movie",
+          "icon": "fa-solid fa-eye"
+        },
+        {
+          "id": 2,
+          "label": "Source Code",
+          "href": "https://github.com/MohamedElyamani/Entertainment-world",
+          "icon": "fa-brands fa-github"
+        }
+      ],
+      "technologies": [
+        {
+          "id": 1,
+          "icon": "<i class='fa-brands fa-angular'></i>"
+        },
+        {
+          "id": 2,
+          "icon": "<i class='fa-brands fa-typescript'></i>"
+        },
+        {
+            "id": 3,
+            "iconType": "image",
+            "icon": "./assets/imgs/owl-carsoule.svg"
+        },
+        {
+          "id": 4,
+          "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        },
+        {
+          "id": 5,
+          "icon": "<i class='fa-solid fa-code'></i>"
+        }
+        ,
+        {
+          "id": 6,
+          "iconType": "image",
+          "icon": "./assets/imgs/rxjs.svg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "MedLab",
+      "description": "MedLab is a web application for managing medical laboratory tests and results. It includes features for test management, patient records, and reporting.",
+      "image": "./assets/imgs/projects/project-3.png",
+      "links": [
+        {
+          "id": 1,
+          "label": "Live Demo",
+          "href": "https://mohamedelyamani.github.io/Medilab/",
+          "icon": "fa-solid fa-eye"
+        },
+        {
+          "id": 2,
+          "label": "Source Code",
+          "href": "https://github.com/MohamedElyamani/Medilab",
+          "icon": "fa-brands fa-github"
+        }
+      ],
+      "technologies": [
+        {
+          "id": 1,
+          "name": "HTML5",
+          "icon": "<i class='fa-brands fa-html5'></i>"
+        },
+        {
+          "id": 2,
+          "name": "CSS3",
+          "icon": "<i class='fa-brands fa-css3-alt'></i>"
+        },
+        {
+            "id": 3,
+            "iconType": "image",
+            "icon": "./assets/imgs/owl-carsoule.svg"
+        },
+        {
+          "id": 4,
+          "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Arsha",
+      "description": "Arsha is a responsive HTML template for creative agencies and portfolios.",
+      "image": "./assets/imgs/projects/project-4.png",
+      "links": [
+        {
+          "id": 1,
+          "label": "Live Demo",
+          "href": "https://mohamedelyamani.github.io/Arsha/",
+          "icon": "fa-solid fa-eye"
+        },
+        {
+          "id": 2,
+          "label": "Source Code",
+          "href": "https://github.com/MohamedElyamani/Arsha",
+          "icon": "fa-brands fa-github"
+        }
+      ],
+      "technologies": [
+        {
+          "id": 1,
+          "name": "HTML5",
+          "icon": "<i class='fa-brands fa-html5'></i>"
+        },
+        {
+          "id": 2,
+          "name": "CSS3",
+          "icon": "<i class='fa-brands fa-css3-alt'></i>"
+        },
+        {
+          "id": 3,
+          "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gym Fitness",
+      "description": "Gym Registration App is an Angular app for managing gym member registrations with create, list, update, and delete operations. It calculates BMI from user data and stores member details like package, trainer option, and fitness goals.",
+      "image": "./assets/imgs/projects/project-5.png",
+      "links": [
+        {
+          "id": 1,
+          "label": "Live Demo",
+          "href": "https://angular-gym-app.vercel.app/create-record",
+          "icon": "fa-solid fa-eye"
+        },
+        {
+          "id": 2,
+          "label": "Source Code",
+          "href": "https://github.com/MohamedElyamani/Angular-gym-APP",
+          "icon": "fa-brands fa-github"
+        }
+      ],
+      "technologies": [
+        {
+          "id": 1,
+          "icon": "<i class='fa-brands fa-angular'></i>"
+        },
+        {
+          "id": 2,
+          "icon": "<i class='fa-brands fa-typescript'></i>"
+        },
+        {
+          "id": 3,
+          "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        },
+        {
+          "id": 4,
+          "icon": "<i class='fa-solid fa-code'></i>"
+        }
+        ,
+        {
+          "id": 5,
+          "iconType": "image",
+          "icon": "./assets/imgs/rxjs.svg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Angora",
+      "description": "Angora is a responsive landing page for a creative branding and digital agency. It showcases the agency’s services, team, portfolio-style sections, and client reviews. Built with HTML, CSS, JavaScript, Bootstrap, jQuery, and Font Awesome.",
+      "image": "./assets/imgs/projects/project-6.png",
+      "links": [
+        {
+          "id": 1,
+          "label": "Live Demo",
+          "href": "https://mohamedelyamani.github.io/Angora/",
+          "icon": "fa-solid fa-eye"
+        },
+        {
+          "id": 2,
+          "label": "Source Code",
+          "href": "https://github.com/MohamedElyamani/Angora",
+          "icon": "fa-brands fa-github"
+        }
+      ],
+      "technologies": [
+        {
+          "id": 1,
+          "name": "HTML5",
+          "icon": "<i class='fa-brands fa-html5'></i>"
+        },
+        {
+          "id": 2,
+          "name": "CSS3",
+          "icon": "<i class='fa-brands fa-css3-alt'></i>"
+        },
+        {
+          "id": 3,
+          "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        },
+        {
+            "id": 4,
+            "iconType": "image",
+            "icon": "./assets/imgs/owl-carsoule.svg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Illdy",
+      "description": "Illdy is a responsive landing page based on the Colorlib Illdy template. It includes sections like hero, projects, testimonials, services, blog, team, and contact.",
+      "image": "./assets/imgs/projects/project-7.png",
+      "links": [
+        {
+          "id": 1,
+          "label": "Live Demo",
+          "href": "https://mohamedelyamani.github.io/illdy/",
+          "icon": "fa-solid fa-eye"
+        },
+        {
+          "id": 2,
+          "label": "Source Code",
+          "href": "https://github.com/MohamedElyamani/illdy",
+          "icon": "fa-brands fa-github"
+        }
+      ],
+      "technologies": [
+        {
+          "id": 1,
+          "name": "HTML5",
+          "icon": "<i class='fa-brands fa-html5'></i>"
+        },
+        {
+          "id": 2,
+          "name": "CSS3",
+          "icon": "<i class='fa-brands fa-css3-alt'></i>"
+        },
+        {
+          "id": 3,
+          "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        },
+        {
+            "id": 4,
+            "iconType": "image",
+            "icon": "./assets/imgs/owl-carsoule.svg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Tiffin Room",
+      "description": "Tiffin Room is a responsive restaurant landing page with hero, specials, about, services, menu, reservation, and contact sections. t includes order online, food menu cards, and reservation call-to-action.",
+      "image": "./assets/imgs/projects/project-8.png",
+      "links": [
+        {
+          "id": 1,
+          "label": "Live Demo",
+          "href": "https://mohamedelyamani.github.io/tiffin-room/",
+          "icon": "fa-solid fa-eye"
+        },
+        {
+          "id": 2,
+          "label": "Source Code",
+          "href": "https://github.com/MohamedElyamani/tiffin-room",
+          "icon": "fa-brands fa-github"
+        }
+      ],
+      "technologies": [
+        {
+          "id": 1,
+          "name": "HTML5",
+          "icon": "<i class='fa-brands fa-html5'></i>"
+        },
+        {
+          "id": 2,
+          "name": "CSS3",
+          "icon": "<i class='fa-brands fa-css3-alt'></i>"
+        },
+        {
+          "id": 3,
+          "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        },
+        {
+            "id": 4,
+            "iconType": "image",
+            "icon": "./assets/imgs/owl-carsoule.svg"
+        }
+      ]
+    }
+  ]
+}

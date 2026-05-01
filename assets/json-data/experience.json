@@ -1,0 +1,51 @@
+{
+  "experiences": [
+    {
+      "jobTitle": "ABP Developer",
+      "company": "Horizon Group (Egypt branch)",
+      "period": "Oct 2023 - Present",
+      "responsibilities": [
+        "DevEnhance and maintaining a Mini ERP System using the ABP Framework, focusing on creating user interfaces, APIs, and entity design.",
+        "Designing and implementing front-end components with Angular, including a Point of Sale (POS) System to handle item purchases, returns, discount calculations, tax computations, and generating invoices with printing capabilities.",
+        "Collaborating with the backend team to ensure seamless integration between the front-end and back-end systems.",
+        "Responsible for UI design to deliver user-friendly, intuitive, and visually appealing interfaces."
+      ],
+      "tools": [
+        "ABP Framework",
+        "Entity Framework",
+        "OOP",
+        "SQL Server",
+        "Angular 2+"
+      ]
+    },
+     {
+      "jobTitle": "Angular Developer",
+      "company": "National Digital Solutions (NDS)",
+      "period": "Sep 2025 - Feb 2026 (6 months project)",
+      "responsibilities": [
+        "Developed Angular-based UI modules for an enterprise system covering equipment inspection, HR, job orders, and sales quotations.",
+        "Implemented reusable UI components, dynamic forms, data tables, and CRUD workflows using Angular, TypeScript, and Metronic.",
+        "Collaborated with the backend team to integrate APIs and deliver responsive, user-friendly business screens."
+      ],
+      "tools": [
+        "Angular 2+",
+        "Metronic"
+      ]
+    },
+    {
+      "jobTitle": "E-Learning and Desktop Publisher Specialist",
+      "company": "Almotahida Education Group",
+      "period": "June 2021 - July 2023",
+      "responsibilities": [
+        "E-Learning developer using Kotobee Author and Articulate Storyline.",
+        "Desktop E-Books using Adobe InDesign and Photoshop."
+      ],
+      "tools": [
+        "Kotobee Author",
+        "Photoshop",
+        "InDesign",
+        "Articulate Storyline"
+      ]
+    }
+  ]
+}

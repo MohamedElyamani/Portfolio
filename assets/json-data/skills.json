@@ -1,0 +1,144 @@
+{
+  "skillCategories": [
+    {
+      "id": 1,
+      "title": "Language & Markup",
+      "isActive": true,
+      "skills": [
+        {
+          "id": 1,
+          "name": "HTML5",
+          "icon": "<i class='fa-brands fa-html5'></i>"
+        },
+        {
+          "id": 2,
+          "name": "CSS3",
+          "icon": "<i class='fa-brands fa-css3-alt'></i>"
+        },
+        {
+          "id": 3,
+          "name": "JavaScript (ES6)",
+          "icon": "<i class='fa-brands fa-js'></i>"
+        },
+        {
+          "id": 4,
+          "name": "Type Script",
+          "icon": "<i class='fa-brands fa-typescript'></i>"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Frameworks",
+      "isActive": false,
+      "skills": [
+        {
+            "id": 1,
+            "name": "Angular",
+            "icon": "<i class='fa-brands fa-angular'></i>"
+        },
+        {
+            "id": 2,
+            "name": "ABP Framework",
+            "iconType": "image",
+            "icon": "./assets/imgs/abp-framework.svg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Styling & Libraries",
+      "isActive": false,
+      "skills": [
+        {
+            "id": 1,
+            "name": "Bootstrap",
+            "icon": "<i class='fa-brands fa-bootstrap'></i>"
+        },
+        {
+            "id": 2,
+            "name": "Angular Material",
+            "iconType": "image",
+            "icon": "./assets/imgs/Materialize.svg"
+        },
+        {
+            "id": 3,
+            "name": "PrimeNG",
+            "iconType": "image",
+            "icon": "./assets/imgs/Primeng.svg"
+        },
+        {
+            "id": 4,
+            "name": "RXJS",
+            "iconType": "image",
+            "icon": "./assets/imgs/rxjs.svg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "APIs & Integration",
+      "isActive": false,
+      "skills": [
+            {
+                "id": 1,
+                "name": "RESTful APIs",
+                "icon": "<i class='fa-solid fa-code'></i>"
+            },
+            {
+                "id": 2,
+                "name": "Postman",
+                "iconType": "image",
+                "icon": "./assets/imgs/Postman.svg"
+            }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Version Control & Tools",
+      "isActive": false,
+      "skills": [
+        {
+            "id": 1,
+            "name": "GitHub",
+            "icon": "<i class='fa-brands fa-github'></i>"
+        },
+        {
+            "id": 2,
+            "name": "Git",
+            "icon": "<i class='fa-brands fa-git'></i>"
+        },
+        
+        {
+            "id": 3,
+            "name": "VS Code",
+            "iconType": "image",
+            "icon": "./assets/imgs/vscode.svg"
+        },
+        {
+          "id": 4,
+          "name": "npm",
+          "iconType": "image",
+          "icon": "./assets/imgs/NPM.svg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Basics Of",
+      "isActive": false,
+      "skills": [
+        {
+            "id": 1,
+            "name": "C#",
+            "icon": "<i class='fa-solid fa-code'></i>"
+        },
+        {
+            "id": 3,
+            "name": "SQL",
+            "icon": "<i class='fa-solid fa-database'></i>"
+        }
+      ]
+    }
+  ]
+}

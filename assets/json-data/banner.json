@@ -1,0 +1,21 @@
+{
+
+    "name": "Mohamed Elyamani",
+    "jobTitle": "Frontend Developer",
+    "summaryTitle": "Summary",
+    "profileDescription": "Highly motivated and results-oriented Web Developer using the ABP Framework and Angular. Possessing UI development expertise with HTML5, CSS3, and JavaScript, specializing in creating fully responsive and user-friendly web experiences.",
+    "stats": [
+       {
+    "value": "2",
+    "label": ["Years of", "coding."]
+  },
+  {
+    "value": "10",
+    "label": ["Projects", "Completed."]
+  },
+  {
+    "value": "10",
+    "label": ["Frameworks and", "Libraries Used."]
+  }
+    ]
+}
