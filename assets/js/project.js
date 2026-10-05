@@ -17,7 +17,7 @@ export async function loadProject() {
       .map((project) => {
         return `
           <div class="col-12 col-md-6">
-            <div class="card h-100 border-0 rounded-3 overflow-hidden">
+            <div class="card h-100 border-5 rounded-3 overflow-hidden">
               <img 
                 src="${project.image}" 
                 class="card-img-top project-img" 
